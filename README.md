@@ -1,9 +1,7 @@
 # Motion Planning for Self-Driving Car
 
-# Advanced Motion Planning: Final Assignment
-
 The objective of this project is to create a functional motion planning stack that can track a lane's center line, avoid static and dynamic obstructions, and manage stop signs. You will need to use path selection, velocity profile creation, static collision testing, and behavioral planning logic in order to achieve this. This project is the Capstone project for famous <a href="https://www.coursera.org/specializations/self-driving-cars?action=enroll">Self-driving car Sepcialization</a> by <a href= "https://www.utoronto.ca/">University of Torontohttps://www.utoronto.ca/</a> taught by <a href="https://www.trailab.utias.utoronto.ca/stevenwaslander">Steven L. Waslander</a> & <a href="https://scholar.google.com/citations?user=KtSR8_0AAAAJ&hl=en">Jonathan Kelly</a>.
-.
+
 
 ## Setup Instructions:
 
