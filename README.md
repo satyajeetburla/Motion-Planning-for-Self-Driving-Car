@@ -26,7 +26,7 @@ The major part of the Motion Planner will be based of:
 
 In this segment, we've developed a state machine within behavioral_planner.py to efficiently handle scenarios involving stop signs. This allows the system to seamlessly transition between lane following, decelerating for stop signs, coming to a full stop, and then returning to lane following. To achieve this, we introduced helper functions: get_closest_index() and get_goal_index(). These functions enable the planner to pinpoint its position in relation to the global path and ascertain the current goal point. Furthermore, we've integrated the transition_state() function, encapsulating the core logic of the state machine. For a deeper understanding, the code comments provide comprehensive details on each function's operation.
 
-#### **Path Crafting**:
+#### **Path Generation**:
 
 During the path generation phase, we utilized provided mathematical frameworks to produce spiral paths. Our primary contribution was calculating the goal state set through the get_goal_state_set() function. We also implemented the thetaf() function to determine the car's yaw based on arc length points of a specified spiral. The optimize_spiral() function was employed to fine-tune the optimization problem for each path. Once optimized, we used the sample_spiral() function to derive the actual path. Further insights can be gleaned from the code comments in local_planner.py and path_optimizer.py.
 
