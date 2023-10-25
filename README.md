@@ -50,6 +50,5 @@ In the final phase, we developed a velocity profile. While our planner doesn't c
 python3 module_7.py
 ```
 ### Final Result Video : 
-<video width="320" height="240" controls>
-  <source src="https://github.com/satyajeetburla/Motion-Planning-for-Self-Driving-Car/blob/main/Final%20Video.mp4" type="video/mp4">
-</video>
+[Click here to view the video](https://github.com/satyajeetburla/Motion-Planning-for-Self-Driving-Car/blob/main/Final%20Video.mp4)
+
