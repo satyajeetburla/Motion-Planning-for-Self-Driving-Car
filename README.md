@@ -11,7 +11,7 @@ The objective of this project is to create a functional motion planning stack th
 
 ### **2. Accessing Project Resources:**
 
-- Put eveything under python client tab of CARLA. **PythonClient\Project Codes**
+- Put eveything under python client tab of CARLA. **PythonClient\code**
 
 ### **3. Kickstarting Your Motion Planner:**
 
@@ -47,7 +47,7 @@ In the final phase, we developed a velocity profile. While our planner doesn't c
 1. start the CARLA simulator at a 30hz fixed time-step.
 2. In terminal run :
 ```
-python3 module_7.py
+python3 launch.py
 ```
 ### Final Result Video : 
 [Click here to view the video](https://github.com/satyajeetburla/Motion-Planning-for-Self-Driving-Car/blob/main/Final%20Video.mp4)
