@@ -51,4 +51,7 @@ python3 module_7.py
 ```
 ### Final Result Video : 
 [Click here to view the video](https://github.com/satyajeetburla/Motion-Planning-for-Self-Driving-Car/blob/main/Final%20Video.mp4)
+### Gif:
+![Alt Text](https://github.com/satyajeetburla/Motion-Planning-for-Self-Driving-Car/blob/main/final_gif.gif)
+
 
